@@ -37,7 +37,7 @@ python -m spacy download en_core_web_lg
 ```
 
 ### **5. Download Weights of Model**
-download from the [link](https://drive.google.com/drive/folders/15-0eRYl-LCVGLbsSeQu4XJd3Fmx9jOCO?usp=drive_link) and save them in a folder names ./saved_folder
+download from the [link](https://drive.google.com/drive/folders/15-0eRYl-LCVGLbsSeQu4XJd3Fmx9jOCO?usp=drive_link) and save them in a directory named [saved_model](saved_model)
 
 
 ### **6. Run the Application**
