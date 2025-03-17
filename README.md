@@ -36,7 +36,11 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_lg
 ```
 
-### **5. Run the Application**
+### **5. Download Weights of Model**
+download from the [link](https://drive.google.com/drive/folders/15-0eRYl-LCVGLbsSeQu4XJd3Fmx9jOCO?usp=drive_link) and save them in a folder names ./saved_folder
+
+
+### **6. Run the Application**
 ```sh
 streamlit run complete-solution.py
 ```
@@ -87,11 +91,9 @@ streamlit run complete-solution.py
 ---
 
 ## **Screenshots**
-📌 **Streamlit UI:**
-![UI Screenshot](screenshot.png)
+![UI Screenshot](Images/Transcript_summary.png)
 
-📌 **Example SOAP Note Output:**
-![SOAP Note Screenshot](soap_screenshot.png)
+![SOAP Note Screenshot](Images/SOAP.png)
 
 ---
 
